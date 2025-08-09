@@ -9,18 +9,21 @@
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Hridhikesh S Premnath] - [Sree Chitra thirunal College of engineering]
+- Member 2: [Christo Biju] - [College]
 
 ### Project Description
-[2-3 lines about what your project does]
+gentharvan is a playful web app that uses AI to analyze images or short videos and give a “Crush Score.” It’s designed to help you figure out if your friend might be acting suspiciously around someone else — like if they secretly like another person.
+
+The app uses facial recognition and emotion detection (with MediaPipe and DeepFace), plus eye and eyebrow movement analysis (OpenCV), to spot subtle cues like nervousness or surprise. It also scans optional user text for suspicious keywords.
+
+Based on these signals, it calculates a humor-weighted “Sus Score” (0–100%) and shows fun meme animations and labels — making the whole experience both tech-savvy and entertaining.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Prove that my friend has a crush technincally and with AI
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+It’s hard to tell when someone’s low-key acting sus or hiding their feelings around others. This app uses AI to spot those sneaky signs in photos, videos, and texts — then turns it all into hilarious memes and scores you can share.
 
 ## Technical Details
 ### Technologies/Components Used
@@ -47,14 +50,14 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+[![Screenshot1](Add screenshot 1 here with proper name)](https://drive.google.com/file/d/1T84x4gkvV_Azyp2VNKPUkhCh6vxFMHXu/view?usp=drive_link)
+front page
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2]([Add screenshot 2 here with proper name](https://drive.google.com/file/d/1pbAl56o1JFLGN4MGgrRGy_ei8jNH6LD_/view?usp=drive_link))
+questionaire 
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3][(Add screenshot 3 here with proper name]([https://drive.google.com/file/d/19vobuTsw0Vg77JaafVZKS0h2kVcK7znj/view?usp=drive_link)](https://drive.google.com/file/d/19vobuTsw0Vg77JaafVZKS0h2kVcK7znj/view?usp=drive_link))
+result
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -81,8 +84,8 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[[Add your demo video link here]][(https://drive.google.com/file/d/15ARZs1HnmhepbqmNe5MvNfxjW1hi_-OL/view?usp=drive_link)
+can ](https://drive.google.com/file/d/15ARZs1HnmhepbqmNe5MvNfxjW1hi_-OL/view?usp=drive_link)
 
 # Additional Demos
 [Add any extra demo materials/links]
