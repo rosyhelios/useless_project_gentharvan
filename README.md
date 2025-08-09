@@ -28,8 +28,8 @@ It’s hard to tell when someone’s low-key acting sus or hiding their feelings
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
+- [python js HTML css]
+- [React 18, TypeScript, Express.js, PostgreSQL, Tailwind CSS]
 - [Libraries used]
 - [Tools used]
 
